@@ -48,4 +48,50 @@ This review explores:
 - ⚠️ **Identification of research gaps in existing studies**
 - 🚀 **How our project improves upon existing work**
 
+**🛠 How to Compile Locally (LaTeX)**
 
+**Step 1: Install LaTeX Install one of the following distributions:**
+
+Windows → MiKTeX
+Mac → MacTeX
+Linux → TeX Live
+Step 2: Clone the Repository git clone cd
+
+**Step 3: Compile the Document**
+
+pdflatex main.tex
+bibtex main
+pdflatex main.tex
+pdflatex main.tex
+🌐 How to Use in Overleaf
+
+**Option 1: Upload Manually**
+
+Go to https://www.overleaf.com
+Click New Project → Upload Project
+Upload all files from this repository
+Ensure main.tex is set as the main file
+Click Recompile
+
+**Option 2: GitHub Integration**
+
+Create a project in Overleaf
+Go to Menu → GitHub Integration
+Connect this repository
+Sync changes between Overleaf and GitHub
+This allows collaborative editing and version control.
+
+**Option 3: VS Code**
+Install VS Code
+Install extension: LaTeX Workshop
+Open the project folder
+Open main.tex
+Click Build LaTeX Project
+
+📚 Article Selection Criteria
+
+Databases: ScienceDirect, IEEE Xplore, Scopus, Web of Science, SpringerLink
+
+Keywords: WQI + Machine Learning / AI / Deep Learning / Hybrid ML
+Inclusion: Q1/Q2 journals (2022–2026), peer-reviewed, English
+Final Selected Papers: 8 high-quality journal articles
