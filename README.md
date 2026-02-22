@@ -1,4 +1,4 @@
-# 🌊 Machine Learning Approaches for Water Quality Index Prediction  
+# 🌊 Machine Learning Approaches for Water Quality Index Prediction: A Systematic Review
 ## 📘 A Systematic Review
 
 ---
@@ -48,6 +48,4 @@ This review explores:
 - ⚠️ **Identification of research gaps in existing studies**
 - 🚀 **How our project improves upon existing work**
 
----
 
-> 📌 Goal: To provide a structured and comprehensive understanding of ML-driven Water Quality Index prediction methods and highlight opportunities for further research and innovation.
